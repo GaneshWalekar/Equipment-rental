@@ -1,0 +1,15 @@
+.product12{
+    width: 10em;
+    height: auto;
+}
+.owl-nav{
+    text-align: center;
+
+}
+.owl-prev,.owl-next{
+    font-size: 3rem !important;
+}
+.owl-parent .owl-prev{
+    padding-right: 2rem !important;
+
+}
